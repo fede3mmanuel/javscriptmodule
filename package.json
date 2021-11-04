@@ -1,0 +1,22 @@
+{
+  "name": "javascriptmodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fede3mmanuel/javscriptmodule.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fede3mmanuel/javscriptmodule/issues"
+  },
+  "homepage": "https://github.com/fede3mmanuel/javscriptmodule#readme",
+  "dependencies": {
+    "http-server": "^14.0.0"
+  }
+}

@@ -1,1 +1,3 @@
-alert("sdf");
+import { consoleLogPrint } from './secondfile.js';
+
+consoleLogPrint("juand");
